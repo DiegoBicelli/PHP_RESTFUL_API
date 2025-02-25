@@ -138,7 +138,7 @@ A API utiliza **JSON Web Token (JWT)** para autenticação segura.
 1. Clone o repositório:
 
    ```sh
-   git clone https://github.com/seu-usuario/ecommerce-api.git
+   git clone https://github.com/DiegoBicelli/PHP_RESTFUL_API
    ```
 
 2. Configure o banco de dados em `/config/database.php`.
